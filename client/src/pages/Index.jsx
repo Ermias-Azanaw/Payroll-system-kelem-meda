@@ -8,28 +8,28 @@ const features = [
     description:
       "Efficiently manage all Kelem Meda staff details including personal information, positions, and employment history.",
     image:
-      "https://i.pinimg.com/originals/2e/2f/7a/2e2f7ac27a3a8e6e5c7a7a4a5e5d5d5d.png", // Employee management icon
+      "https://i.pinimg.com/736x/6e/b6/2d/6eb62d72d59ea0e395f8bd9e9ce13798.jpg", // Employee management icon
   },
   {
     title: "Payroll Calculation",
     description:
       "Automated payroll with Ethiopian tax laws, pension, and Kelem Meda's specific compensation rules.",
     image:
-      "https://i.pinimg.com/originals/8a/8b/9d/8a8b9d9e5e5d5d5d5e5d5d5e5d5d5d5.png", // Payroll icon
+      "https://i.pinimg.com/736x/6e/b6/2d/6eb62d72d59ea0e395f8bd9e9ce13798.jpg", // Payroll icon
   },
   {
     title: "Payment Processing",
     description:
       "Secure salary disbursement with integration to major Ethiopian banks and payment systems.",
     image:
-      "https://i.pinimg.com/originals/5e/5d/5d/5e5d5d5e5d5d5e5d5d5e5d5d5e5d5d.png", // Payment icon
+      "https://i.pinimg.com/736x/6e/b6/2d/6eb62d72d59ea0e395f8bd9e9ce13798.jpg", // Payment icon
   },
   {
     title: "Reporting & Analytics",
     description:
       "Comprehensive reports for management with Kelem Meda's specific metrics and KPIs.",
     image:
-      "https://i.pinimg.com/originals/d5/d5/e5/d5d5e5e5d5d5e5d5d5e5d5d5e5d5d5.png", // Analytics icon
+      "https://i.pinimg.com/736x/6e/b6/2d/6eb62d72d59ea0e395f8bd9e9ce13798.jpg", // Analytics icon
   },
 ];
 
@@ -41,7 +41,7 @@ const testimonials = [
     quote:
       "This system transformed our payroll operations, reducing processing time by 70%.",
     image:
-      "https://i.pinimg.com/originals/9d/9d/9d/9d9d9d9d9d9d9d9d9d9d9d9d9d9d9d.png", // Ethiopian professional
+      "https://i.pinimg.com/736x/6e/b6/2d/6eb62d72d59ea0e395f8bd9e9ce13798.jpg", // Ethiopian professional
   },
   {
     name: "W/ro Selamawit Abebe",
@@ -49,7 +49,7 @@ const testimonials = [
     quote:
       "Finally, a payroll system that understands Ethiopian business needs and tax regulations.",
     image:
-      "https://i.pinimg.com/originals/a5/a5/a5/a5a5a5a5a5a5a5a5a5a5a5a5a5a5a5.png", // Ethiopian professional woman
+      "https://i.pinimg.com/736x/6e/b6/2d/6eb62d72d59ea0e395f8bd9e9ce13798.jpg", // Ethiopian professional woman
   },
 ];
 
@@ -61,7 +61,7 @@ const Index = () => {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <div className="flex items-center">
             <img
-              src="https://i.pinimg.com/originals/7a/7a/7a/7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a.png"
+              src="https://i.pinimg.com/736x/30/b5/41/30b541bc62bfe5b1ed29be375d1db97d.jpg"
               alt="Kelem Meda Logo"
               className="h-12 mr-3"
             />
@@ -135,7 +135,7 @@ const Index = () => {
           </div>
           <div className="md:w-1/2">
             <img
-              src="https://i.pinimg.com/originals/6e/6e/6e/6e6e6e6e6e6e6e6e6e6e6e6e6e6e6e.png"
+              src="https://i.pinimg.com/736x/6e/b6/2d/6eb62d72d59ea0e395f8bd9e9ce13798.jpg"
               alt="Kelem Meda Payroll Dashboard"
               className="w-full rounded-lg shadow-lg border border-gray-200"
             />
